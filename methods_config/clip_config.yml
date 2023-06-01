@@ -1,0 +1,24 @@
+# Dataset settings
+DATASET_NAME: "$DATASET_NAME"
+DATASET_DIR: "$DATASET_DIR"
+
+# Model setting
+MODEL: "$MODEL"
+VIS_ENCODER: "$VIS_ENCODER"
+
+# Prompt template
+PROMPT_TEMPLATE: 'imported in main.py'
+
+# Train-validation separation
+validation_seed: 0
+ratio_train_val: 0.8
+
+# Batch size
+BATCH_SIZE: 8
+
+# Seed settings
+OPTIM_SEED: "$OPTIM_SEED"
+
+# Classes split
+CLASSES_SPLIT: SPLIT_SEED
+SPLIT_SEED: "$SPLIT_SEED"

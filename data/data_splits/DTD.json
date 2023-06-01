@@ -1,0 +1,14 @@
+{
+    "split_500": {
+        "seen": ["knitted", "pitted", "studded", "bumpy", "spiralled", "scaly", "polka-dotted", "veined", "wrinkled", "banded", "flecked", "stained", "chequered", "sprinkled", "bubbly", "grid", "lined", "crystalline", "fibrous", "meshed", "zigzagged", "pleated", "braided", "perforated", "potholed", "waffled", "dotted", "matted", "gauzy"],
+        "unseen": ["blotchy", "smeared", "cobwebbed", "cracked", "crosshatched", "stratified", "striped", "swirly", "woven", "freckled", "frilly", "grooved", "honeycombed", "interlaced", "lacelike", "marbled", "paisley", "porous"]
+    },
+    "split_0": {
+        "seen": ["pitted", "scaly", "polka-dotted", "bumpy", "honeycombed", "fibrous", "veined", "porous", "lined", "dotted", "perforated", "potholed", "pleated", "waffled", "braided", "wrinkled", "paisley", "gauzy", "meshed", "grid", "studded", "knitted", "swirly", "crosshatched", "freckled", "chequered", "grooved", "smeared", "frilly"],
+        "unseen": ["banded", "blotchy", "bubbly", "spiralled", "sprinkled", "cobwebbed", "cracked", "stained", "crystalline", "stratified", "striped", "flecked", "woven", "zigzagged", "interlaced", "lacelike", "marbled", "matted"]
+    },
+    "split_200": {
+        "seen": ["pitted", "pleated", "polka-dotted", "sprinkled", "grooved", "knitted", "matted", "wrinkled", "honeycombed", "chequered", "braided", "zigzagged", "spiralled", "banded", "waffled", "crosshatched", "bubbly", "smeared", "dotted", "porous", "woven", "freckled", "lined", "potholed", "lacelike", "marbled", "stratified", "scaly", "studded"],
+        "unseen": ["blotchy", "bumpy", "stained", "cobwebbed", "cracked", "striped", "crystalline", "swirly", "fibrous", "flecked", "veined", "frilly", "gauzy", "grid", "interlaced", "meshed", "paisley", "perforated"] 
+    }
+}

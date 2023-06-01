@@ -1,0 +1,14 @@
+{
+    "split_500": {
+        "seen": ["industrial buildings or commercial buildings", "brushland or shrubland", "lake or sea", "highway or road", "annual crop land", "pasture land"],
+        "unseen": ["river", "forest", "permanent crop land", "residential buildings or homes or apartments"]
+    },
+    "split_0": {
+        "seen": ["brushland or shrubland", "river", "industrial buildings or commercial buildings", "lake or sea", "forest", "permanent crop land"],
+        "unseen": ["annual crop land", "highway or road", "pasture land", "residential buildings or homes or apartments"]
+    },
+    "split_200": {
+        "seen": ["river", "highway or road", "pasture land", "permanent crop land", "forest", "residential buildings or homes or apartments"],
+        "unseen":  ["annual crop land", "lake or sea", "brushland or shrubland", "industrial buildings or commercial buildings"]
+    }
+}

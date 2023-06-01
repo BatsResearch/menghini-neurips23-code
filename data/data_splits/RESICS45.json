@@ -1,0 +1,14 @@
+{
+    "split_500": {
+        "seen": ["beach", "palace", "roundabout", "railway station", "railway", "thermal power station", "river", "airplane", "island", "bridge", "basketball court", "desert", "runway", "ground track field", "sea ice", "sparse residential", "cloud", "dense residential", "wetland", "mountain", "meadow", "baseball diamond", "parking lot", "storage tank", "tennis court", "commercial area", "mobile home park"],
+        "unseen": ["airport", "ship", "snowberg", "chaparral", "church", "circular farmland", "stadium", "terrace", "forest", "freeway", "golf course", "harbor", "industrial area", "intersection", "lake", "medium residential", "overpass", "rectangular farmland"]
+    },
+    "split_0": {
+        "seen": ["railway station", "snowberg", "palace", "beach", "commercial area", "mountain", "parking lot", "dense residential", "sparse residential", "rectangular farmland", "railway", "island", "tennis court", "baseball diamond", "thermal power station", "industrial area", "golf course", "meadow", "ground track field", "storage tank", "circular farmland", "forest", "bridge", "harbor", "river", "freeway", "sea ice"],
+        "unseen": ["airplane", "airport", "roundabout", "basketball court", "runway", "ship", "chaparral", "church", "stadium", "cloud", "terrace", "desert", "wetland", "intersection", "lake", "medium residential", "mobile home park", "overpass"]
+    },
+    "split_200": {
+        "seen": ["railway", "parking lot", "wetland", "meadow", "harbor", "island", "mobile home park", "storage tank", "industrial area", "bridge", "baseball diamond", "sea ice", "runway", "airplane", "thermal power station", "circular farmland", "basketball court", "roundabout", "commercial area", "railway station", "terrace", "forest", "rectangular farmland", "lake", "medium residential", "snowberg", "river"],
+        "unseen": ["airport", "beach", "ship", "chaparral", "church", "sparse residential", "cloud", "stadium", "dense residential", "desert", "tennis court", "freeway", "golf course", "ground track field", "intersection", "mountain", "overpass", "palace"] 
+    }
+}

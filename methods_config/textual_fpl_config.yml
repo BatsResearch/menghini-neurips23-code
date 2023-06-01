@@ -1,0 +1,48 @@
+DATASET_DIR: "$DATASET_DIR" #'/users/cmenghin/data/bats/datasets/classification' # '/Users/menga/Desktop/github/zsl_taglets/development' #
+DATASET_NAME: "$DATASET_NAME"
+# Model
+MODALITY: 'text'
+MODEL: "$MODEL"
+# Visual ecoder
+VIS_ENCODER: "$VIS_ENCODER"
+# Prompt template
+PROMPT_TEMPLATE: 'imported in main.py'
+# Number of shats per classes in SSL
+N_LABEL: 2
+ALPHA: 0.3
+# Prefix size
+PREFIX_SIZE: 16
+N_PSEUDOSHOTS: 16
+STEP_QUANTILE: 10
+# Prefix initialization: normal/uniform
+VIS_PREFIX_INIT: "normal"
+# Initialization mean and variance
+MEAN_INIT: 0
+VAR_INIT: 0.02
+# Seeed to separate train and validation
+validation_seed: 0
+# Ratio validation
+ratio_train_val: 0.8
+# Batch size
+BATCH_SIZE: 16
+# Number of epochs
+EPOCHS: 150
+# Scheduler
+SCHEDULER: "cosine"
+# Scheduler warmup epochs
+WARMUP_EPOCHS: 5
+WARMUP_LR: 0.0001
+# Number of accumulation iter
+ACCUMULATION_ITER: 1
+# Optimizer teacher
+OPTIM: "SGD"
+LR: 0.1
+DECAY: 0.1
+STEP_SIZE: 1
+STEP_SIZE: 1
+# Set seeds
+OPTIM_SEED: "$OPTIM_SEED"
+# Classes split
+CLASSES_SPLIT: SPLIT_SEED
+# Seed split
+SPLIT_SEED: "$SPLIT_SEED"
