@@ -1,6 +1,6 @@
 # Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Labeled Prompt Tuning
 
-This repository contains the code to reproduce the experiments from the paper ["Enhancing CLIP with CLIP: Pseudolabeling for Limiter-Labeled Prompt Tuning"](ADD LINK). The paper explores the effect of leveraging pseudolabels to adapt vision-language models such as CLIP to downstream tasks in a unified way across prompt modalities, learning paradigms, and training strategies.
+This repository contains the code to reproduce the experiments from the paper ["Enhancing CLIP with CLIP: Pseudolabeling for Limiter-Labeled Prompt Tuning"](http://arxiv.org/abs/2306.01669). The paper explores the effect of leveraging pseudolabels to adapt vision-language models such as CLIP to downstream tasks in a unified way across prompt modalities, learning paradigms, and training strategies.
 
 <div align="center">
     <img src="imgs/overview.png" alt="Design space">
@@ -182,12 +182,16 @@ To be filled with the results obtained from the experiments.
 If you find this work helpful, please consider citing the following paper:
 
 ```
-@article{menghini:enhanceCLIPwithCLIP2023,
-  Author = {Menghini, C. and Delworth, A. and Bach, S. H.},
-  Title = {Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Labeled Prompt Tuning},
-  Journal = {enter arxiv code}
-  Year = {2023}
-  }
+@misc{
+    menghini2023enhancing,
+    title={Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning}, 
+    author={Cristina Menghini and Andrew Delworth and Stephen H. Bach},
+    year={2023},
+    eprint={2306.01669},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
+
 
 [Back to Table of Contents](#table-of-contents)
