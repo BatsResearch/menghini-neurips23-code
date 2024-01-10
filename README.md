@@ -182,14 +182,13 @@ To be filled with the results obtained from the experiments.
 If you find this work helpful, please consider citing the following paper:
 
 ```
-@misc{
+@inproceedings{
     menghini2023enhancing,
-    title={Enhancing CLIP with CLIP: Exploring Pseudolabeling for Limited-Label Prompt Tuning}, 
-    author={Cristina Menghini and Andrew Delworth and Stephen H. Bach},
+    title={Enhancing {CLIP} with {CLIP}: Exploring Pseudolabeling for Limited-Label Prompt Tuning},
+    author={Cristina Menghini and Andrew Delworth and Stephen Bach},
+    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
     year={2023},
-    eprint={2306.01669},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+    url={https://openreview.net/forum?id=2b9aY2NgXE}
 }
 ```
 
