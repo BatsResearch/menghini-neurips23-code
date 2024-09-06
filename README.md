@@ -57,11 +57,11 @@ If you encounter any issues with the download or prefer an alternative method, y
    - `mnist/` to `MNIST/`
    - `resisc45_clip/` to `RESICS45/`
 3. Ensure that each folder contains the following files:
-   - `DTD/` should contain the [`class_names.txt`](https://github.com/BatsResearch/co-training-clip/blob/reproducibility/data/class_files/DTD/class_names.txt) file
-   - `EuroSAT/` should contain the [`class_names.txt`](https://github.com/BatsResearch/co-training-clip/blob/reproducibility/data/class_files/EuroSAT/class_names.txt) file
-   - `FGVCAircraft/` should contain the [`labels.txt`](https://github.com/BatsResearch/co-training-clip/blob/reproducibility/data/class_files/FGVCAircraft/labels.txt) file
-   - `Flowers102/` should contain the [`class_names.txt`](https://github.com/BatsResearch/co-training-clip/blob/reproducibility/data/class_files/Flowers102/class_names.txt) file
-   - `MNIST/` should contain the [`labels.txt`](https://github.com/BatsResearch/co-training-clip/blob/reproducibility/data/class_files/MNIST/labels.txt) file
+   - `DTD/` should contain the [`class_names.txt`](https://github.com/BatsResearch/menghini-neurips23-code/blob/main/data/class_files/DTD/class_names.txt) file
+   - `EuroSAT/` should contain the [`class_names.txt`](https://github.com/BatsResearch/menghini-neurips23-code/blob/main/data/class_files/EuroSAT/class_names.txt) file
+   - `FGVCAircraft/` should contain the [`labels.txt`](https://github.com/BatsResearch/menghini-neurips23-code/blob/main/data/class_files/FGVCAircraft/labels.txt) file
+   - `Flowers102/` should contain the [`class_names.txt`](https://github.com/BatsResearch/menghini-neurips23-code/blob/main/data/class_files/Flowers102/class_names.txt) file
+   - `MNIST/` should contain the [`labels.txt`](https://github.com/BatsResearch/menghini-neurips23-code/blob/main/data/class_files/MNIST/labels.txt) file
 
 [Back to Table of Contents](#table-of-contents)
 
